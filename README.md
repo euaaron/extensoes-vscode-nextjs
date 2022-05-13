@@ -4,7 +4,7 @@
 
 Este pacote de extensões foi publicado para facilitar o desenvolvimento durante o Workshop "Desenvolvendo e Publicando um Portfólio com Next.js e a API do GitHub" ministrado durante a IV Semana do BSI em 2022.
 
-As extensões incluídas não foram desenvolvidas por mim, apenas as uni neste pacote.
+> As extensões incluídas não foram desenvolvidas por mim, apenas as uni neste pacote.
 
 Bons estudos!
 
