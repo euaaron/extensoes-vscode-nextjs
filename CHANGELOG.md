@@ -2,8 +2,7 @@
 
 All notable changes to the "semana-do-bsi---next-js" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [Released]
 
 - Initial release
+- Added extensions to the pack

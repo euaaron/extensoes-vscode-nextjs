@@ -1,16 +1,24 @@
-# README
+# IV Semana do BSI - Next.js
 
-## This is the README for your extension pack "semana-do-bsi---next-js"
+## Sobre
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Este pacote de extensões foi publicado para facilitar o desenvolvimento durante o Workshop "Desenvolvendo e Publicando um Portfólio com Next.js e a API do GitHub" ministrado durante a IV Semana do BSI em 2022.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+As extensões incluídas não foram desenvolvidas por mim, apenas as uni neste pacote.
 
-## For more information
+Bons estudos!
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Conteúdo
 
-**Enjoy!**
+- Utilidades de Git e GitHub
+- Utilidades de Typescript
+- Utilidades de formatação de código
+- O tema que eu uso 😀
+
+## Autor
+
+ <img src="https://github.com/euaaron.png" width="100px"/>
+
+ [Aaron Carneiro](https://aaroncarneiro.com)
+
+ Estudante de Sistemas de Informação no IF Sudeste MG.
