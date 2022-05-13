@@ -3,6 +3,10 @@
     "displayName": "Semana do BSI - Next.js",
     "description": "Um pacote com as extensões utilizadas durante o Workshop de Next.js em Maio de 2022.",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/euaaron/extensoes-vscode-nextjs.git"
+    },
     "author": {
         "name": "Aaron Carneiro",
         "email": "hello@aaroncarneiro.com",
